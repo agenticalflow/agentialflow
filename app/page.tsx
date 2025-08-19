@@ -317,6 +317,7 @@ export default function AgenticalFlowLanding() {
             <CardContent className="p-8">
               <form action="https://formsubmit.co/julian.d.feder@gmail.com" method="POST" className="space-y-6">
                 <input type="hidden" name="_subject" value="מעוניין בשיחת ייעוץ" />
+                <input type="hidden" name="_next" value="https://agenticalflow.com/thanks" />
 
                 <div>
                   <label className="block text-sm font-medium mb-2">
