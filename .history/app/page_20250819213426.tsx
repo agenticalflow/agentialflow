@@ -13,7 +13,7 @@ export default function AgenticalFlowLanding() {
   const testimonials = [
     {
       text: "התקנו בוט באתר שעזר ללקוחות למצוא את מה שהם מחפשים, והגדלנו מכירות בכ-12% תוך פחות מחודשיים",
-      author: "יובל כ.",
+      author: "יובל",
       title: "בעל חנות 'קישקוש' למוצרי חיות מחמד",
     },
     {
@@ -28,7 +28,7 @@ export default function AgenticalFlowLanding() {
     },
     {
       text: "חסכנו כ-15 שעות עבודה שבועיות הודות למערכת ניהול מלאי שמבצעת הזמנות אוטומטיות לפי הצורך",
-      author: "רונית ר.",
+      author: "רונית",
       title: "בעלת חנות אופנת נשים 'סיגליות' בחדרה",
     },
   ]
